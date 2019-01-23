@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mortgage Calculator 3.0</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="year_loan">20</string>
+    <string name="month_pay">Monthly Payment</string>
+    <string name="month_payment">Monthly Pay</string>
+    <string name="theyear_loan">Year :</string>
+    <string name="loan">Loan</string>
+    <string name="down">Down</string>
+    <string name="rate">Rate</string>
+    <string name="years">Year(s)</string>
+    <string name="years_2">Year(s) :</string>
+</resources>
